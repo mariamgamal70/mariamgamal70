@@ -13,7 +13,6 @@
 
 - [ICU management system](https://github.com/mariamgamal70/ICU-Management-System)
 
-👨‍💻 All of my projects are available at [https://github.com/mariamgamal70?tab=repositories](https://github.com/mariamgamal70?tab=repositories)
 
 🌱 I’m currently learning **mongoDB and react**
 
