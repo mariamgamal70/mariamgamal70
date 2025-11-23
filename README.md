@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mariam Gamal</h1>
-<h3 align="center">As a passionate Full-stack Developer and Biomedical Engineering student, I love building innovative software solutions and exploring the intersection between technology and healthcare. Currently, I'm focusing on Node.js development and honing my skills in backend development.</h3>
+<h3 align="center">As a passionate Web Developer and Biomedical Engineer, I love building innovative software solutions and exploring the intersection between technology and healthcare. Currently, I'm focusing on MEAN and MERN stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamgamal70&label=Profile%20views&color=0e75b6&style=flat" alt="mariamgamal70" /> </p>
 
@@ -13,12 +13,6 @@
 
 - [ICU management system](https://github.com/mariamgamal70/ICU-Management-System)
 
-
-🌱 I’m currently learning **mongoDB and react**
-
-👯 I’m looking to collaborate on **MERN-stack projects**
-
-🔭 I’m currently seeking **internships in software development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
